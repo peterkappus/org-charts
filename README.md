@@ -11,6 +11,10 @@ python -m SimpleHTTPServer 8000
 
 ## Generating the data.json file
 
+create a file called "data.csv" with columns for each level.
+
 ```
 $ ruby csv_to_flare.rb > data.json
 ```
+
+NOTE: currently supports 4 levels of depth.
