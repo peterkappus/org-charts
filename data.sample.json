@@ -1,0 +1,28 @@
+{
+  "name": "Top Level",
+  "parent": "null",
+  "children": [
+    {
+      "name": "Operations",
+      "children": [
+        {
+          "name": "Digital Design & Engagement",
+          "children": [
+            {
+              "name": "save the world"
+            },
+            {
+              "name": "Drink milk"
+            }
+          ]
+        },
+        {
+          "name": "Daughter of A"
+        }
+      ]
+    },
+    {
+      "name": "Level 2: B"
+    }
+  ]
+}
